@@ -3,3 +3,5 @@ include
 lib
 pip-selfcheck.json
 __pycache__/
+*.swp
+docker-entrypoint-initdb.d
